@@ -1,0 +1,12 @@
+El uso responsable de la información en internet, la participación 
+ciudadana y la organización técnica del trabajo están profundamente 
+relacionados. Cuando una persona verifica la información antes de 
+compartirla, está ejerciendo una forma de ciudadanía digital activa 
+y ética, contribuyendo a una sociedad mejor informada. Esta misma 
+disciplina se refleja en herramientas como Git, donde cada cambio 
+queda registrado con claridad y orden. Git nos enseña que el trabajo 
+debe ser trazable, documentado y responsable, valores que también 
+aplican a cómo nos comportamos en internet. Así como en Git se hace 
+un commit con un mensaje claro que explica qué se hizo y por qué, 
+en la vida digital debemos ser transparentes sobre el origen de la 
+información que compartimos.
