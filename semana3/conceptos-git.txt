@@ -1,0 +1,11 @@
+Repositorio: Es como una carpeta inteligente que no solo guarda 
+los archivos del proyecto sino que también recuerda todos los 
+cambios que se han hecho, quién los hizo y en qué momento.
+
+Commit: Es como tomar una foto del proyecto en un momento 
+específico. Cada vez que se hace un commit queda guardado 
+un registro de qué se cambió y por qué.
+
+Push: Es el comando que se usa para enviar los cambios guardados 
+en el computador hacia GitHub, para que queden publicados 
+y otras personas puedan verlos.
