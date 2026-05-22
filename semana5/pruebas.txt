@@ -1,0 +1,9 @@
+Ruta 1: http://localhost:3000
+Muestra el mensaje "Servidor activo"
+
+Ruta 2: http://localhost:3000/saludo
+Muestra el mensaje "Hola comunidad"
+
+Ruta 3: http://localhost:3000/mensaje/juan
+Muestra el mensaje "Hola juan", usando el nombre
+que se escribe en la URL como parámetro.
