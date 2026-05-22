@@ -1,0 +1,12 @@
+Es muy importante que las comunidades puedan construir sus propias 
+herramientas tecnológicas porque así no dependen de empresas grandes 
+que muchas veces no entienden sus necesidades reales. Node.js es una 
+tecnología abierta y gratuita, lo que significa que cualquier persona 
+con acceso a internet puede aprender a usarla sin pagar licencias. 
+Esto permite que iniciativas ciudadanas puedan crear plataformas para 
+organizarse, comunicarse y resolver sus propios problemas de forma 
+independiente. Además cuando una comunidad construye su propia 
+herramienta, puede modificarla y mejorarla según lo que necesite, 
+algo que no es posible con software comercial. En general la 
+tecnología abierta democratiza el acceso y le da poder a las 
+comunidades para ser protagonistas de su propio desarrollo.
