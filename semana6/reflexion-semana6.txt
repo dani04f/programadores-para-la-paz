@@ -1,0 +1,14 @@
+Reflexión - Semana 6
+=====================
+
+Es muy importante que las plataformas tecnológicas puedan recibir reportes e
+información enviada por los ciudadanos de forma estructurada, porque esto permite
+que los datos lleguen organizados y listos para ser procesados sin errores.
+Cuando la información se envía en formato JSON, cada campo tiene un nombre claro
+y un valor definido, lo que facilita que el servidor la interprete correctamente.
+Esto reduce la posibilidad de malentendidos o pérdida de información importante.
+Además, recibir datos estructurados permite que las instituciones respondan más
+rápido a las necesidades de la comunidad, ya que el sistema puede registrar,
+clasificar y gestionar cada reporte de manera automática y eficiente.
+En conclusión, la estructuración de la información es la base para construir
+servicios digitales útiles, transparentes y accesibles para todos los ciudadanos.
