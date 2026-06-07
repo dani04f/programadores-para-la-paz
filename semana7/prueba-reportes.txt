@@ -1,0 +1,38 @@
+Prueba de las rutas GET y POST /reportes
+=========================================
+
+Paso 1 - Se envió una petición POST a http://localhost:3000/reportes
+con el siguiente JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor respondió con:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Paso 2 - Se consultó la ruta GET http://localhost:3000/reportes
+y el servidor devolvió la lista de reportes registrados:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Explicación:
+Los reportes se almacenan en un array llamado reportes que vive en memoria
+mientras el servidor está encendido. Cada vez que se envía un POST, el reporte
+se agrega al array con un id único. Cuando se consulta con GET, el servidor
+devuelve todos los reportes registrados hasta ese momento.
