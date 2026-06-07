@@ -1,0 +1,19 @@
+Información del sistema
+========================
+
+Comando uname -a:
+Muestra información completa del sistema operativo, incluyendo el nombre
+del kernel, el nombre del equipo, la versión del sistema y la arquitectura
+del procesador. En este caso mostró que el equipo usa Windows 10 con
+Git Bash (MINGW64) y arquitectura x86_64.
+
+Comando whoami:
+Muestra el nombre del usuario que está actualmente conectado al sistema.
+En este caso mostró el usuario "danie".
+
+¿Por qué es útil conocer esta información?
+Cuando se administra un servidor es importante conocer el sistema operativo
+y el usuario activo porque permite verificar que se está trabajando en el
+entorno correcto, identificar posibles vulnerabilidades según la versión
+del sistema y confirmar que se tienen los permisos adecuados para ejecutar
+las tareas requeridas.

@@ -1,0 +1,23 @@
+Prácticas de seguridad para plataformas comunitarias
+======================================================
+
+1. No exponer datos personales
+Los datos de los ciudadanos como nombre, dirección o teléfono deben
+estar protegidos y no ser visibles públicamente sin autorización.
+
+2. Proteger credenciales
+Las contraseñas deben ser seguras, no compartirse con nadie y
+almacenarse de forma cifrada dentro del sistema.
+
+3. Usar conexiones seguras
+La plataforma debe usar protocolos seguros como HTTPS para proteger
+la información que se transmite entre el usuario y el servidor.
+
+4. Registrar accesos
+Es importante llevar un registro de quién accede al sistema, cuándo
+y qué acciones realiza, para detectar comportamientos sospechosos.
+
+5. Limitar acceso a información sensible
+Solo las personas con el rol adecuado deben poder ver o modificar
+información sensible, evitando que cualquier usuario tenga acceso
+a todo el sistema.
