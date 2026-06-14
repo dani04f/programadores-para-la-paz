@@ -1,0 +1,15 @@
+Reflexión - Semana 9
+
+Es muy importante que las plataformas tecnológicas que usan las comunidades
+funcionen de manera estable y segura en un servidor, porque de ello depende
+que los ciudadanos puedan acceder a los servicios en cualquier momento sin
+interrupciones. Si un servidor falla o no está bien configurado, los reportes,
+consultas o participaciones de la comunidad pueden perderse o quedar
+inaccesibles, lo que genera desconfianza en la plataforma.
+Un servidor estable también garantiza que la información llegue correctamente
+a quienes la necesitan, ya sea una institución, un moderador o un ciudadano
+que quiere consultar el estado de su reporte. Además, un servidor seguro
+protege los datos de los usuarios frente a accesos no autorizados o ataques
+que puedan comprometer la privacidad de la comunidad.
+En conclusión, la estabilidad y seguridad de un servidor no es solo un tema
+técnico, sino una responsabilidad con las personas que confían en la plataforma.
