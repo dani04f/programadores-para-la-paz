@@ -1,0 +1,13 @@
+Una plataforma de participación ciudadana necesita base de datos
+porque sin ella la información se perdería cada vez que se apaga
+el servidor, y no habría forma de consultar registros anteriores
+ni hacer seguimiento a los casos reportados. La autenticación es
+igualmente importante porque garantiza que solo las personas
+registradas puedan hacer ciertas acciones, evitando que alguien
+externo manipule o borre información de la comunidad. La protección
+de datos es fundamental porque una plataforma comunitaria maneja
+información de personas reales, y exponer esos datos podría generar
+riesgos de seguridad o violaciones a la privacidad. En conjunto
+estas tres cosas hacen que la plataforma sea confiable, segura y
+útil para la comunidad, porque la gente solo participa cuando
+siente que su información está protegida y bien organizada.
