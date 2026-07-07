@@ -1,0 +1,16 @@
+Las dos tareas que haría primero son:
+
+1. Permitir que un ciudadano registre una incidencia.
+2. Enviar una alerta al coordinador cuando llegue un reporte.
+
+Estas son las más importantes porque sin ellas el sistema
+no tiene sentido, primero debe existir una forma de reportar
+y luego alguien debe enterarse de que llegó ese reporte.
+
+Definición de terminado:
+Una tarea está terminada cuando:
+- Funciona correctamente sin errores.
+- Fue probada con al menos un ejemplo real.
+- Quedó registrada en Git con un commit claro.
+- El resultado es comprensible para cualquier miembro
+  de la comunidad, no solo para el desarrollador.

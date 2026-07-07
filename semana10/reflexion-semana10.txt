@@ -1,0 +1,13 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad
+porque permiten dividir el trabajo en tareas pequeñas y concretas
+en lugar de intentar resolver todo de una vez. Esto hace que sea
+más fácil avanzar, corregir errores y adaptarse cuando algo cambia.
+El backlog por ejemplo permite que todos sepan qué hay que hacer
+y en qué orden, lo que evita confusiones y pérdida de tiempo.
+La automatización con herramientas como n8n reduce el trabajo
+manual y garantiza que la información llegue a tiempo a quienes
+la necesitan. Y canales como Telegram permiten que la comunicación
+sea rápida y llegue a todos los miembros sin importar dónde estén.
+En conjunto estas herramientas hacen que una comunidad pueda
+organizarse mejor, responder más rápido y dejar evidencia de
+todo lo que se hace.
