@@ -1,0 +1,13 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta
+muy poderosa para fortalecer la participación ciudadana cuando se usa
+de forma responsable y organizada. Aprendí a usar Git para registrar
+y publicar el trabajo de forma trazable, lo que me enseñó que en
+cualquier proyecto es importante dejar evidencia de lo que se hace.
+También entendí cómo funciona un servidor con Node.js y Express, y
+cómo una comunidad puede tener su propia plataforma para registrar
+causas, apoyos y reportes sin depender de grandes empresas. La
+automatización con herramientas como n8n y Telegram me mostró que
+es posible mantener informada a una comunidad de forma rápida y
+sin exponer datos personales. En general este curso me hizo ver que
+programar no es solo escribir código, sino pensar en cómo la
+tecnología puede resolver problemas reales de las personas.s

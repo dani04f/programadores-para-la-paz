@@ -1,0 +1,20 @@
+Flujo del sistema "Petición en 3 Clics":
+
+1. Un ciudadano entra a la plataforma y crea una causa
+   escribiendo el título y la descripción del problema.
+
+2. La causa queda registrada en la base de datos
+   y es visible para los demás miembros de la comunidad.
+
+3. Otros ciudadanos pueden leer la causa y apoyarla
+   haciendo clic en el botón de apoyo.
+
+4. El sistema cuenta automáticamente los apoyos
+   y los muestra en tiempo real junto a cada causa.
+
+5. Cuando la causa tiene suficientes apoyos, el sistema
+   genera un documento PDF formal con la petición
+   que puede ser compartido o presentado ante autoridades.
+
+6. El sistema envía una notificación automática al canal
+   de Telegram del equipo para informar del nuevo reporte.
